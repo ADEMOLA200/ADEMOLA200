@@ -3,12 +3,8 @@
 <!--- snake --> 
 <div align="center"> 
   <img src="grid-snake.svg" alt="snake" /></a>
-  <>
+
   </div> <!--h2 without bottom border--> 
-  <!-- <div id="user-content-toc">  -->
-  <!-- <ul align="center"> 
-    <summary><h2 style="display: inline-block">Code is an art that would tranform the world</h2></summary> 
-  </ul>  -->
 </div> 
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
