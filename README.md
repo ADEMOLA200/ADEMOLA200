@@ -1,5 +1,16 @@
 ### Hi, I'm Ademola 👋
 
+<!--- snake --> 
+<div align="center"> 
+  <img src="grid-snake.svg" alt="snake" /></a>
+  <>
+  </div> <!--h2 without bottom border--> 
+  <!-- <div id="user-content-toc">  -->
+  <!-- <ul align="center"> 
+    <summary><h2 style="display: inline-block">Code is an art that would tranform the world</h2></summary> 
+  </ul>  -->
+</div> 
+
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 
@@ -11,8 +22,17 @@ I'm a software engineer specializing in Backend Web and Cloud Engineering, with 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm passionate about space technology, enjoy crafting innovative software, indulge in anime, and love delving into the intricacies of how things work.
 
-![showbaba's Stats](https://github-readme-stats.vercel.app/api?username=ADEMOLA200&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-![showbaba's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ADEMOLA200&theme=tokyonight&hide_border=true)
+ <table align="center"> 
+    <tr border="none"> 
+      <!-- <td width="50%" align="center"><img  align="center"  src="https://github-readme-stats.vercel.app/api?username=michaelajayi150&theme=dark&show_icons=true&count_private=true" /> 
+        <br></br> 
+        <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=michaelajayi150&theme=dark&hide_border=false" /> 
+      </td>  -->
+      <td width="50%" align="center">
+        <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ADEMOLA200&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/> 
+      </td> 
+    </tr> 
+  </table> 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> 
