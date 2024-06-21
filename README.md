@@ -3,9 +3,9 @@
 <!--horizontal divider(gradiant)--> 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
-
+<div align="center">
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:FF0000,25:FFFF00,50:00FF00,75:00FFFF,100:0000FF&height=300&section=header&text=development&fontAlign=86.5&fontAlignY=55&fontSize=40&fontColor=FFFFFF&desc=GameDev.&descSize=20&descAlign=88&descAlignY=66&animation=blinking)
-
+</div>
 
 <!--- snake --> 
 <!--  <div align="center"> 
