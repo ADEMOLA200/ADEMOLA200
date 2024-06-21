@@ -3,10 +3,6 @@
 <!--horizontal divider(gradiant)--> 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
-<div align="center">
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:FF0000,25:FFFF00,50:00FF00,75:00FFFF,100:0000FF&height=300&section=header&text=development&fontAlign=86.5&fontAlignY=55&fontSize=40&fontColor=FFFFFF&desc=GameDev.&descSize=20&descAlign=88&descAlignY=66&animation=blinking)
-</div>
-
 <!--- snake --> 
 <!--  <div align="center"> 
   <img src="grid-snake.svg" alt="snake" /></a>
@@ -14,7 +10,7 @@
   </div> <!--h2 without bottom border--> 
 <!-- </div> -->
 
-<!--<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">-->
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 
 I'm a software engineer specializing in Backend Web and Cloud Engineering, with a keen interest in Open Source contributions. Proficient in Golang, JavaScript, React and TypeScript, I thrive in the realm of backend development, crafting large-scale distributed systems.
