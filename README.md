@@ -3,12 +3,15 @@
 <!--horizontal divider(gradiant)--> 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
+
+![header](https://capsule-render.vercel.app/api?type=gradient&color=0:FF0000,25:FFFF00,50:00FF00,75:00FFFF,100:0000FF&height=300&section=header&text=development&fontAlign=86.5&fontAlignY=55&fontSize=40&fontColor=FFFFFF&desc=GameDev.&descSize=20&descAlign=88&descAlignY=66&animation=blinking)
+
 <!--- snake --> 
-<div align="center"> 
+<!--  <div align="center"> 
   <img src="grid-snake.svg" alt="snake" /></a>
 
   </div> <!--h2 without bottom border--> 
-</div> 
+<!-- </div> -->
 
 <!--<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">-->
 
@@ -32,8 +35,6 @@ I'm a software engineer specializing in Backend Web and Cloud Engineering, with 
       </td> 
     </tr> 
   </table> 
-
-  https://github.com/gjbae1212/hit-counter
 
 <h3 align="left">Languages and Tools:</h3>
 <a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
