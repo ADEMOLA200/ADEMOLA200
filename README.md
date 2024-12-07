@@ -13,10 +13,10 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 
-I'm a software engineer specializing in Backend Web and Cloud Engineering, with a keen interest in Open Source contributions. Proficient in Golang, JavaScript, React and TypeScript, I thrive in the realm of backend development, crafting large-scale distributed systems.
+I'm a software engineer specializing in Backend Web and Cloud Engineering, with a keen interest in Open Source contributions. Proficient in Golang, JavaScript, React, TypeScript and CSharp, I thrive in the realm of backend development, crafting large-scale distributed systems.
 - 🔭 Currently, I'm channeling my efforts into personal projects and delving into the latest advancements in cloud technologies.
 - 👯 I’m looking to collaborate on any Golang project.
-- 💬 Feel free to engage with me on Backend development, distributed systems, Golang, JavaScript, TypeScript, Node.js, and API design technology.
+- 💬 Feel free to engage with me on Backend development, distributed systems, Golang, JavaScript, TypeScript, Node.js, CSharp, and API design technology.
 - 📫 How to reach me: odukoyaabdullahi01@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I enjoy crafting innovative software, indulge in anime, and love delving into the intricacies of how things work.
