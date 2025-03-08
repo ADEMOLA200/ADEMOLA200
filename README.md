@@ -21,6 +21,18 @@ I'm a software engineer specializing in Backend Web and Cloud Engineering, with 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I enjoy crafting innovative software, indulge in anime, and love delving into the intricacies of how things work.
 
+<div align="center">
+  
+<h3 align="center"><b>- YOUTUBE -</b></h3>
+<a href="https://www.youtube.com/@Ademola1-r5" target="_blank"><img src="https://img.shields.io/badge/YouTube-FFFFFF?style=flat-square&logo=YouTube&logoColor=red"/></a>
+
+<h3 align="center"><b>- LINKEDIN -</b></h3>
+<a href="https://www.linkedin.com/in/odukoya-abdullahi-185182247" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=flat-square&logo=Linkedin&logoColor=0A66C2" alt="LinkedIn"/>
+</a>
+
+</div>
+
+
  <table align="center"> 
     <tr border="none"> 
       <td width="50%" align="center"><img  align="center"  src="https://github-readme-stats.vercel.app/api?username=ADEMOLA200&theme=dark&show_icons=true&count_private=true" />  
