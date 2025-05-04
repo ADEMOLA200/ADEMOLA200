@@ -62,6 +62,14 @@ I'm a software engineer specializing in Backend Web and Cloud Engineering, with 
 <a href="https://www.unrealengine.com/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unrealengine/unrealengine-original.svg" alt="unreal engine" width="70" height="70"/>
 </a>
+<a href="https://docs.microsoft.com/dotnet/csharp/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
+       alt="csharp" width="70" height="70"/>
+</a>
+<a href="https://www.python.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+       alt="python" width="70" height="70"/>
+</a>
 <a href="https://git-scm.com/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="70" height="70"/>
 </a>
