@@ -66,10 +66,6 @@ I'm a software engineer specializing in Backend Web and Cloud Engineering, with 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
        alt="csharp" width="70" height="70"/>
 </a>
-<a href="https://www.python.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-       alt="python" width="70" height="70"/>
-</a>
 <a href="https://git-scm.com/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="70" height="70"/>
 </a>
@@ -87,9 +83,6 @@ I'm a software engineer specializing in Backend Web and Cloud Engineering, with 
 </a>
 <a href="https://www.python.org" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="70" height="70"/>
-</a>
-<a href="https://www.java.com" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="70" height="70"/>
 </a>
 <a href="https://www.javascript.com" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="70" height="70"/>
